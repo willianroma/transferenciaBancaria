@@ -1,0 +1,16 @@
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.exe
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.deps.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.runtimeconfig.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.runtimeconfig.dev.json
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\ref\TransferenciaBancarias.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\bin\Debug\net5.0\TransferenciaBancarias.pdb
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.csproj.AssemblyReference.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.GeneratedMSBuildEditorConfig.editorconfig
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.AssemblyInfoInputs.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.AssemblyInfo.cs
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.csproj.CoreCompileInputs.cache
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\ref\TransferenciaBancarias.dll
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.pdb
+W:\Programação\AulasDIO\BOOTCAMP\DotNet CSharp\Transferencia bancarias com .net\TransferenciaBancarias\TransferenciaBancarias\obj\Debug\net5.0\TransferenciaBancarias.genruntimeconfig.cache
